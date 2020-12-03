@@ -9,4 +9,3 @@ def line(x)
       line_array.push("#{index}. #{name}")
     end
 end
-
