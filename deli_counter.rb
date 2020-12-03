@@ -1,7 +1,8 @@
 katz_deli = []
 
 def line()
-  return "there is nobody in line"
+  katz_deli
+  return line is empty
 end
 
 
